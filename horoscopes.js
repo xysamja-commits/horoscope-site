@@ -1,5 +1,5 @@
 const horoscopes = {
-  "2025-09-11": {
+  "2025-09-16": {
     theme: "Reflection",
     aries: "Today sparks a surge of ambition, and with it comes the opportunity to pause and ask yourself what truly fuels your drive. As an Aries, boldness is your compass—you thrive when pushing boundaries and stepping into challenges others shy away from. But ambition without reflection can scatter your energy in too many directions. Take this moment to consider: are you chasing goals because they excite you, or because you feel pressured to prove yourself? When you stop and reflect, you may realize that true success isn’t measured only by victories, but by the satisfaction you feel in pursuing them. Today, write down your top three motivations. Are they rooted in passion, growth, or recognition? If your ambition feels aligned with your authentic desires, your energy will flow naturally. If not, reflection helps you redirect your boldness toward what truly matters. This inward check-in will empower you to move forward with clarity, rather than running on impulse. Trust that your daring spirit, when guided by self-awareness, will always lead you exactly where you need to be.",
     taurus: "Slow down, Taurus. Your natural rhythm is steady, but lately, you may have felt pulled to rush or make decisions before you’re ready. Today invites reflection and calm—a reminder that savoring the present is just as powerful as planning the future. There’s a decision you’ve been postponing, perhaps because you want all the details to feel certain. Through reflection, clarity emerges. Ask yourself: what do I truly want here, beyond the expectations of others? When you honor your inner truth, you’ll find the confidence to move forward without doubt. Try grounding yourself in small rituals today: enjoy a meal slowly, walk outside, or listen to music that makes you feel rooted. These moments of presence will help clear the fog in your mind. Remember, decisions made in haste rarely feel aligned, but those chosen after careful reflection often last a lifetime. Trust that your strength lies in patience, and that clarity will arrive when you create space for it.",
@@ -30,7 +30,7 @@ aquarius:
 pisces:
 "Dreams feel especially vivid for you today, Pisces, carrying messages from the depths of your subconscious. Reflection invites you to listen. Pay attention to recurring symbols, emotions, or stories in your dreams—they hold insights into your waking life. Today, write them down and explore what they might mean. Ask: what part of me is speaking through these images? Reflection allows you to see the patterns that your conscious mind may overlook. Beyond dreams, your intuition is heightened now. Spend quiet time in meditation, prayer, or creative expression to translate those inner messages into understanding. Your imagination is a powerful guide, but reflection gives it form and clarity. Trust that the guidance you receive today is not random—it’s your soul speaking. By honoring these reflections, you open the door to healing, creativity, and a deeper connection with yourself."
   },
-  "2025-09-12": {
+  "2025-09-17": {
     theme: "Love",
     aries:
 "Love asks for vulnerability, Aries. You’re bold in many areas of life, but opening your heart can sometimes feel scarier than taking on the biggest challenge. Today is a reminder that strength lies not in walls but in openness. Let down your guard, even if it feels risky. Speak honestly about your feelings, hopes, and fears. Whether in romance or friendship, your authentic words will deepen bonds more than any grand gesture. Reflection helps you see that vulnerability isn’t weakness—it’s the bridge to true intimacy. Practice listening as much as speaking; the exchange of hearts is a two-way dance. When you dare to be real, you’ll find love responds with equal courage.",
@@ -68,7 +68,7 @@ aquarius:
 pisces:
 "Romance flows through your soul, Pisces, and today reflection asks you to let your dreams guide your heart’s expression. Your imagination is a gift—turn it toward love. Write a poem, create art, or simply allow your emotions to flow in words or gestures. Reflection reminds you that love is not only about grand gestures but about soulful presence. Notice how your intuition nudges you toward tenderness and compassion. When you honor those inner whispers, your connections deepen beautifully. Don’t be afraid to dream together with someone special. Love, for you, is at its best when it blends reality with the magic of imagination."
   },
-  "2025-09-13": {
+  "2025-09-18": {
     theme: "Career",
     aries:
 "Take initiative, Aries—your leadership shines today. You thrive when you’re bold, and in your career, this is the moment to step forward with confidence. Reflection reminds you that opportunities rarely come from waiting; they come from action. Consider what project, idea, or challenge you’ve been hesitating on. A bold move—whether speaking up in a meeting, pitching an idea, or volunteering for responsibility—could open doors. Leadership for you is natural, but it’s most effective when balanced with awareness of others. Today, trust your instincts and lead with authenticity. Reflection helps you see that courage doesn’t just benefit you—it inspires those around you too.",
@@ -106,7 +106,7 @@ aquarius:
 pisces:
 "Creativity fuels your career, Pisces. You bring imagination, empathy, and artistry into everything you do. Today invites you to reflect on how you can use that creativity more boldly. Are you proposing ideas that feel dreamy but possible? Don’t underestimate the power of your vision—it can inspire practical change. Reflection asks: where have I been holding back out of fear my ideas won’t be taken seriously? Today, let your imagination flow, and share it with confidence. Your career path is not about fitting into rigid boxes but about weaving dreams into reality. Trust that your creativity is your greatest professional asset."
   },
-  "2025-09-14": {
+  "2025-09-19": {
     theme: "Intuition",
     aries:
 "Pause before acting, Aries. Your fiery nature loves to leap first and refine later, but today calls for stillness. Your gut knows more than your logic right now, and reflection helps you hear it clearly. Think about the last time you followed your instincts without overthinking—how did it turn out? Chances are, it guided you well. Today, resist the urge to push ahead at full speed. Sit with your decision, breathe, and notice what your body feels when you imagine each choice. That tightening in your chest or spark of excitement is your intuition speaking. Reflection helps you trust that pause, reminding you that your bold spirit is strongest when it’s balanced by inner knowing. Let instinct—not impulse—be your compass today.",
@@ -143,7 +143,7 @@ aquarius:
 pisces:
 "Your dreams are messages, Pisces, and today reflection asks you not to dismiss them. Whether they come in sleep or daydreams, they hold real insight. You are deeply connected to intuition, often sensing truths others miss. Reflect by journaling your dreams and noticing recurring symbols or feelings. What are they trying to tell you? Your imagination is a doorway to wisdom, and today that wisdom wants your attention. Don’t brush off those whispers as fantasy—they may be guiding you toward healing, clarity, or opportunity. Reflection shows you that your intuition isn’t just a gift—it’s your natural language. Trust it fully."
   },
-  "2025-09-15": {
+  "2025-09-20": {
     theme: "Adventure",
     aries:
 "Say yes to something new, Aries. Your fiery spirit craves movement, challenge, and fresh horizons. Adventure doesn’t always require a grand journey—it could be saying yes to an unfamiliar opportunity or daring to try something outside your usual rhythm. Reflect on where you’ve been holding back out of caution or habit. Today, trust that your courage will carry you. Whether it’s starting a bold project, exploring a new place, or simply shifting your daily routine, adventure fuels your vitality. Reflection helps you see that growth always begins at the edge of your comfort zone. Let your boldness be the spark that lights the path forward.",
@@ -180,27 +180,27 @@ aquarius:
 
 pisces:
 "Let your imagination wander, Pisces. Adventure begins in the mind before it touches the map. Reflection shows you that your inner world is as vast as any destination, and today invites you to explore it fully. Write, paint, dream, or meditate—let your creativity take you somewhere new. Adventure doesn’t always require physical travel; for you, it often starts with vision. Reflection helps you see that imagination is not an escape but a doorway into possibility. Allow your dreams to guide you, and you may find they lead to real-world journeys you never expected. Today, let your inner adventure bloom."
-  }
+  },
 };
 
 
 Object.assign(horoscopes, {
-  "2025-09-16": {
-    theme: "Relationships",
-    aries: "Connection deepens when you listen more than you speak. Today, be present for someone who needs you.",
-    taurus: "Stability in relationships is your gift. Offer reassurance, and you’ll receive trust in return.",
-    gemini: "A playful exchange could turn meaningful. Don’t underestimate the power of light-hearted connection.",
-    cancer: "Your nurturing energy is needed. Someone close may be silently asking for your comfort.",
-    leo: "Lead with empathy, not ego. Relationships thrive when you share the spotlight.",
-    virgo: "Be honest about your needs. Relationships flourish when clarity replaces assumption.",
-    libra: "Harmony is beautiful—but don’t avoid conflict. A gentle truth may heal more than silence.",
-    scorpio: "Emotional depth is your strength. Share it with someone who’s earned your trust.",
-    sagittarius: "Freedom matters, but so does commitment. Reflect on what balance looks like for you.",
-    capricorn: "Loyalty is your anchor. Today, show up for someone without needing recognition.",
-    aquarius: "Unusual bonds may surprise you. Stay open to connection beyond your usual circle.",
-    pisces: "Sensitivity is your superpower. Use it to understand, not absorb, others’ emotions."
-  },
-  "2025-09-17": {
+"2025-09-21": {
+  theme: "Relationships",
+  aries: "Connection deepens when you listen more than you speak. Your natural fire makes you eager to act, but today true strength lies in presence. Someone close to you may not need solutions or advice—only the safety of your attentive heart. Let your words be few and your ears wide open, and you’ll discover that listening can build bridges stronger than any action.",
+  taurus: "Stability in relationships is your gift, and today it’s needed more than ever. When you offer reassurance, you become an anchor in uncertain tides. Your quiet strength calms others, reminding them that trust is not built overnight but nurtured through patience. By grounding someone with kindness, you’ll feel the trust you’ve given returning back to you in waves.",
+  gemini: "A playful exchange could turn meaningful today. What begins as a lighthearted comment or curious conversation may reveal unexpected truths. Never underestimate the magic hidden in laughter—it disarms walls and opens hearts. By leaning into your gift for communication, you may stumble upon a connection that feels deeper than you imagined, all born from a spark of joy.",
+  cancer: "Your nurturing spirit shines brightest in moments when words are not enough. Today someone close may silently crave your comfort but not know how to ask. Your empathy senses what’s unspoken. A gentle touch, a soft word, or simply your presence can offer more healing than grand gestures. By showing up with compassion, you remind others they are never alone.",
+  leo: "Your warmth naturally attracts attention, but today relationships thrive when you share the spotlight. Lead with empathy rather than ego, and watch how people soften around you. It isn’t about dimming your light, but allowing others to shine beside you. When love and generosity guide your presence, your connections grow stronger, reflecting your inner radiance back to you.",
+  virgo: "Be honest about your needs instead of assuming others will guess them. Clarity creates stronger bonds than silence ever could. You may feel tempted to keep your desires hidden, but trust that truth builds intimacy. When you express yourself openly, you give others permission to do the same. Relationships flourish when authenticity replaces the weight of assumption.",
+  libra: "Harmony is your gift, yet sometimes peace requires speaking truths instead of avoiding them. Today a gentle honesty may heal more than silence. If you’ve been holding back out of fear of conflict, remember that balance isn’t about pretending everything is fine. By offering your truth with grace, you invite authentic harmony—the kind that can truly last.",
+  scorpio: "Your emotional depth is a powerful force, and today is the moment to share it with someone who has earned your trust. Vulnerability does not weaken you—it strengthens bonds in ways that guardedness never could. By opening the door to your inner world, you may find intimacy that transforms both you and the one you confide in. Your depth is a gift, not a burden.",
+  sagittarius: "Freedom is essential to your spirit, but today reflect on how commitment can enrich your connections. Relationships are not chains, but shared adventures where loyalty and freedom coexist. Consider what balance looks like for you: the joy of independence alongside the comfort of belonging. When you honor both, your relationships expand instead of constrict.",
+  capricorn: "Loyalty is your anchor, and today it’s time to show up for someone without expecting recognition. Your reliability is felt even when unspoken—it’s the quiet thread that binds bonds together. While applause may not follow, the trust you reinforce is priceless. In being steadfast for another, you strengthen not only your relationship but also your own sense of purpose.",
+  aquarius: "Unusual bonds may surprise you today, perhaps forming with someone outside your usual circle. Connection thrives when you stay open to difference, seeing not obstacles but opportunities to expand your world. Relationships don’t need to follow tradition to be meaningful. Let curiosity guide you—you may find kinship where you least expect, in ways that feel refreshingly true.",
+  pisces: "Your sensitivity is your superpower, but today the lesson is to understand emotions without fully absorbing them. Empathy connects you to others, yet you must also protect your own energy. By holding compassionate space without losing yourself in another’s tides, you show love in a way that is both gentle and sustainable. True connection honors both hearts equally."
+},
+  "2025-09-22": {
     theme: "Creativity",
     aries: "Your ideas are bold—don’t wait for permission to express them. Create with fire.",
     taurus: "Beauty inspires you. Surround yourself with art, music, or nature to spark your own.",
@@ -215,7 +215,7 @@ Object.assign(horoscopes, {
     aquarius: "Invent something wild. Your originality is needed—don’t hold back.",
     pisces: "Dreams are your canvas. Let your intuition guide your creative expression."
   },
-  "2025-09-18": {
+  "2025-09-23": {
     theme: "Healing",
     aries: "Healing isn’t weakness—it’s strength. Let yourself rest and recharge without guilt.",
     taurus: "Comfort is healing. Indulge in something soothing and let your body exhale.",
@@ -230,7 +230,7 @@ Object.assign(horoscopes, {
     aquarius: "Healing may come from unexpected places. Stay open to unconventional remedies.",
     pisces: "Let tears flow if they need to. Healing is sacred, and you’re safe to feel."
   },
-  "2025-09-19": {
+  "2025-09-24": {
     theme: "Communication",
     aries: "Speak boldly, but listen deeply. Your words carry weight—use them wisely.",
     taurus: "Say what you mean. Clear communication will prevent future misunderstandings.",
@@ -245,7 +245,7 @@ Object.assign(horoscopes, {
     aquarius: "Your ideas challenge norms. Share them with courage and curiosity.",
     pisces: "Poetry lives in your voice. Express yourself through art, music, or metaphor."
   },
-  "2025-09-20": {
+  "2025-09-25": {
     theme: "Decision-making",
     aries: "Trust your gut. The right choice may not be the easiest, but it will energize you.",
     taurus: "Take your time. A well-considered decision will bring lasting peace.",
@@ -263,7 +263,7 @@ Object.assign(horoscopes, {
 });
 
 Object.assign(horoscopes, {
-  "2025-09-21": {
+  "2025-09-26": {
     theme: "Self-Worth",
     aries: "You are enough, even without the accolades. Today, stand tall in your own truth.",
     taurus: "Your value isn’t in what you produce—it’s in who you are. Rest in that knowing.",
@@ -278,7 +278,7 @@ Object.assign(horoscopes, {
     aquarius: "Your uniqueness is your gift. Don’t dilute it to be understood.",
     pisces: "Your dreams matter. You are worthy of the magic you believe in."
   },
-  "2025-09-22": {
+  "2025-09-27": {
     theme: "Focus",
     aries: "Channel your energy into one goal. Scattered effort won’t serve you today.",
     taurus: "Slow and steady wins. Focus on the task that brings long-term peace.",
@@ -293,7 +293,7 @@ Object.assign(horoscopes, {
     aquarius: "Your ideas are brilliant—choose one and make it real.",
     pisces: "Focus your intuition. A single insight can guide your whole day."
   },
-  "2025-09-23": {
+  "2025-09-28": {
     theme: "Gratitude",
     aries: "Pause and appreciate how far you’ve come. Gratitude fuels your next leap.",
     taurus: "Find joy in the simple things. Gratitude is your grounding force today.",
@@ -308,7 +308,7 @@ Object.assign(horoscopes, {
     aquarius: "Thank the unconventional paths—they’ve shaped your brilliance.",
     pisces: "Gratitude opens your heart. Let it flow freely and transform your day."
   },
-  "2025-09-24": {
+  "2025-09-29": {
     theme: "Boundaries",
     aries: "Say no without guilt. Boundaries protect your fire from burning out.",
     taurus: "Hold your ground. Boundaries are a form of self-respect.",
@@ -323,7 +323,7 @@ Object.assign(horoscopes, {
     aquarius: "Your space is sacred. Protect it from distraction and noise.",
     pisces: "Compassion needs boundaries. You can care without losing yourself."
   },
-  "2025-09-25": {
+  "2025-09-30": {
     theme: "Joy",
     aries: "Let joy be loud today. Dance, laugh, and let your spirit run free.",
     taurus: "Savor something delicious. Joy lives in the senses.",
@@ -341,7 +341,7 @@ Object.assign(horoscopes, {
 });
 
 Object.assign(horoscopes, {
-  "2025-09-26": {
+  "2025-10-01": {
     theme: "Patience",
     aries: "Hold your fire. Today asks you to wait, even when action feels tempting.",
     taurus: "Patience is your strength. Trust that what you’ve planted will bloom in time.",
@@ -356,7 +356,7 @@ Object.assign(horoscopes, {
     aquarius: "Ideas need time to mature. Let them simmer before you share.",
     pisces: "Let the tide come to you. Patience is your ocean today."
   },
-  "2025-09-27": {
+  "2025-10-02": {
     theme: "Courage",
     aries: "Your bravery is unmatched. Today, take the leap you’ve been avoiding.",
     taurus: "Courage isn’t loud—it’s steady. Stand firm in your quiet strength.",
@@ -371,7 +371,7 @@ Object.assign(horoscopes, {
     aquarius: "Challenge the norm. Courage is your rebellion today.",
     pisces: "Dream big—and act. Your courage is quiet, but powerful."
   },
-  "2025-09-28": {
+  "2025-10-03": {
     theme: "Forgiveness",
     aries: "Let go of the grudge. Forgiveness frees your fire to burn brighter.",
     taurus: "Release the weight. Forgiveness is a gift you give yourself.",
@@ -386,7 +386,7 @@ Object.assign(horoscopes, {
     aquarius: "Forgive the misunderstanding. Connection is worth the effort.",
     pisces: "Your soul knows how to forgive. Trust its wisdom today."
   },
-  "2025-09-29": {
+  "2025-10-04": {
     theme: "Clarity",
     aries: "The fog lifts. A decision becomes obvious—trust what you now see.",
     taurus: "Clarity comes through stillness. Pause and let the truth rise.",
@@ -401,7 +401,7 @@ Object.assign(horoscopes, {
     aquarius: "A mental breakthrough arrives. Share your insight—it’s valuable.",
     pisces: "Intuition becomes clear. What felt vague now feels true."
   },
-  "2025-09-30": {
+  "2025-10-05": {
     theme: "Balance",
     aries: "Find the middle ground. Today isn’t about extremes—it’s about harmony.",
     taurus: "Balance work and rest. Your body will thank you.",
@@ -416,7 +416,7 @@ Object.assign(horoscopes, {
     aquarius: "Balance innovation with connection. Don’t forget the human side.",
     pisces: "Balance dreams with action. Your vision deserves movement."
   },
-  "2025-10-01": {
+  "2025-10-06": {
     theme: "Renewal",
     aries: "Start fresh. Today is a reset button—use it boldly.",
     taurus: "Let go of what’s stale. Renewal begins with release.",
@@ -435,7 +435,7 @@ Object.assign(horoscopes, {
 
 
 Object.assign(horoscopes, {
-  "2025-10-02": {
+  "2025-10-07": {
     theme: "Perspective",
     aries: "Step back and zoom out. What feels urgent may not be important.",
     taurus: "Shift your lens. A small change in view reveals a deeper truth.",
@@ -450,7 +450,7 @@ Object.assign(horoscopes, {
     aquarius: "Challenge your assumptions. A new angle may surprise you.",
     pisces: "Step into someone else’s shoes. Empathy expands your vision."
   },
-  "2025-10-03": {
+  "2025-10-08": {
     theme: "Trust",
     aries: "Trust your instincts. They’ve been right more often than you admit.",
     taurus: "Trust the process. Growth is happening, even if you can’t see it.",
@@ -465,7 +465,7 @@ Object.assign(horoscopes, {
     aquarius: "Trust your uniqueness. The world needs your perspective.",
     pisces: "Trust the dream. It’s guiding you toward something real."
   },
-  "2025-10-04": {
+  "2025-10-09": {
     theme: "Letting Go",
     aries: "Release the need to control. Freedom follows surrender.",
     taurus: "Let go of what no longer comforts. Growth begins in discomfort.",
@@ -480,7 +480,7 @@ Object.assign(horoscopes, {
     aquarius: "Let go of the plan. Innovation thrives in chaos.",
     pisces: "Let go of the illusion. Reality holds its own magic."
   },
-  "2025-10-05": {
+  "2025-10-10": {
     theme: "Connection",
     aries: "Reach out. A simple message could rekindle something meaningful.",
     taurus: "Connection is built slowly. Be present, not perfect.",
@@ -495,7 +495,7 @@ Object.assign(horoscopes, {
     aquarius: "Celebrate your tribe. Connection doesn’t mean conformity.",
     pisces: "Feel the energy around you. Connection is spiritual today."
   },
-  "2025-10-06": {
+  "2025-10-11": {
     theme: "Transformation",
     aries: "Change is your fuel. Burn through the old and rise anew.",
     taurus: "Transformation takes time. Trust the slow unfolding.",
@@ -512,7 +512,7 @@ Object.assign(horoscopes, {
   }
 });
 Object.assign(horoscopes, {
-  "2025-10-07": {
+  "2025-10-12": {
     theme: "Resilience",
     aries: "You’ve weathered storms—today, stand tall in your strength.",
     taurus: "Your roots run deep. Resilience is your quiet superpower.",
@@ -527,7 +527,7 @@ Object.assign(horoscopes, {
     aquarius: "Your ideas endure. Even when challenged, you hold your ground.",
     pisces: "Your softness is strength. Flow around obstacles and keep going."
   },
-  "2025-10-08": {
+  "2025-10-13": {
     theme: "Wisdom",
     aries: "Wisdom isn’t speed—it’s knowing when to pause. Today, reflect before you act.",
     taurus: "Your experience is valuable. Share your insight with someone who needs it.",
@@ -542,7 +542,7 @@ Object.assign(horoscopes, {
     aquarius: "Wisdom is unconventional. Trust your unique perspective.",
     pisces: "Your dreams carry wisdom. Listen to what your soul is whispering."
   },
-  "2025-10-09": {
+  "2025-10-14": {
     theme: "Hope",
     aries: "Hope is your fuel. Let it ignite your next move.",
     taurus: "Hope grows slowly. Tend to it like a garden.",
@@ -557,7 +557,7 @@ Object.assign(horoscopes, {
     aquarius: "Hope is innovation. Imagine a better future and start building it.",
     pisces: "Hope is spiritual. Let it flow through your art, your heart, your soul."
   },
-  "2025-10-10": {
+  "2025-10-15": {
     theme: "Integration",
     aries: "Bring it all together. Your past, present, and future are ready to align.",
     taurus: "Integrate your values into your actions. Today, walk your truth.",
